@@ -1,2 +1,8 @@
-# ci-practical-KC
-A guided CI practical using Python and GitHub Actions.
+# CI Practical — KC
+
+Student initials: KC
+
+This repository demonstrates automated testing with GitHub Actions.
+
+Starting version: five calculator tests.
+Final required version: seven calculator tests, including multiplication.
